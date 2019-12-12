@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-12-12T02:44:40Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "GauntletV2"
+        },
+        "Owner": "Brian Chen <bc24@rice.edu>",
+        "Size": {
+            "X": 111.4225,
+            "Y": 51.74
+        }
+    }
+}
